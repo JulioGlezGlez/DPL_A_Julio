@@ -33,7 +33,9 @@
 14. Se pone estrellas en los repositorios de los demas
 
 ## Crear una tabla
+
 | Nombre | Github  |
-| Moises | https://github.com/MoisesALH |
-| Owen | https://github.com/OwenHernandez |
-| Angel | https://github.com/Angel-L-G |
+|--------|---------|
+| Moises | [https://github.com/MoisesALH](https://github.com/MoisesALH) |
+| Owen   | [https://github.com/OwenHernandez](https://github.com/OwenHernandez) |
+| Angel  | [https://github.com/Angel-L-G](https://github.com/Angel-L-G) |
