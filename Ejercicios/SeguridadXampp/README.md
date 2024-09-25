@@ -9,7 +9,8 @@
 4. Despues de que de error
 
 5. Ir al fichero llamado "config.inc.php" en la siguiente ruta("/opt/lampp/phpmyadmin/") y modificar lo siguiente en las linea donde esta el user, password y auth_type cambiarlo a como esta en la foto
-   ![Image](../../images/3_1.png)
+
+![Image](../../images/3_1.png)
 
 # Pasos para crear un usuario nuevo
 
