@@ -1,4 +1,4 @@
-# **Informe de Configuración y Gestión de Repositorio Git para el Proyecto BlogGalpón**
+# **Configuración y Gestión de Repositorio Git para el Proyecto BlogGalpón**
 
 ### **1. Creación del Directorio de Trabajo y Inicialización del Repositorio**
 
