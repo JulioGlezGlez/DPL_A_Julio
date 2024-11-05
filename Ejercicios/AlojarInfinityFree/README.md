@@ -1,7 +1,5 @@
 # Guía para alojar tu sitio web en InfinityFree
 
-InfinityFree es un servicio de hosting gratuito que te permite alojar sitios web sin coste. Aquí te explico paso a paso cómo podrías subir tu proyecto web.
-
 ## 1. Crear tu cuenta en InfinityFree
 
 1. Primero, se va a [InfinityFree.net](https://www.infinityfree.net/).
